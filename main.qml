@@ -69,7 +69,7 @@ Window {
 
     /**
       * This is the class that links the view (QML) with the logic code (C++).
-      * Model is store in Sequence class agregated by the logic.
+      * Store model in Sequence class itself contained by the Controller.
       **/
 
     Controller {

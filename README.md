@@ -45,10 +45,6 @@ CORRECTION
   par l'utilisateur (par défaut fixée à 30). En effet, chaque valeur Y seront moyennée avec leur n-valeurs
   voisins. Ceci à l'avantage de produire un signal plus lisse.
 
-  Possibilité d'appliquer une correction sur le signal d'entrée en faisant une moyenne sur valeur Y
-  avec ses voisins antérieurs et postérieurs. Un champ texte en haut à gauche permet de faire
-  varier le nombre de voisins avec lesquelles on veut calculer la moyenne (fixée par défaut à 30)
-
 
 OUTLIERS
 
